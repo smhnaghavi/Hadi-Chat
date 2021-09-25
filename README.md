@@ -9,3 +9,11 @@
   npm install #You have to install it if you don't have this package on your computer. for example in ubuntu sudo apt-get install npm
   cd Server
   node app.js
+  
+  After this you can see the result on localhost:3000
+
+# Features
+
+In VERSION-1 just you can chat with a person and it has some bugs.
+
+In VERSION-2 you can chat with a lot of people and I debug the bugs. Also I make a new template for the app.
