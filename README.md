@@ -4,6 +4,7 @@
   Hadi-Chat is a simple real time chat that made by S.M.H Naghavi. This project is getting better and I will be happy if you star this project.
   
 2.How to run this project on a local server?
+
   git clone https://github.com/smhnaghavi/Hadi-Chat/
   
   cd Hadi-Chat
