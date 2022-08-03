@@ -11,7 +11,7 @@
   cd Hadi-Chat
   ```
   ```
-  npm install #You have to install it if you don't have this package on your computer. for example in ubuntu sudo apt-get install npm
+  npm install
   ```
   ```
   cd Server
